@@ -10,9 +10,7 @@ oinput.oninput = function(){
 
 
 function ojson(data){
-    console.log(data);
     var s = data.s;
-    console.log(s);
     var str = '';
     if(s.length>0){
         s.forEach(function(ele,index){

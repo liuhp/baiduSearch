@@ -56,6 +56,12 @@ input:focus {
     vertical-align: none;
     
 }
+.searchBox ul li a{
+    display:inline-block;
+    width: 447px;
+    height: 22px;
+    cursor: default;
+}
 .searchBox ul li:hover{
     background:#ebe9e9;
     cursor: default;
